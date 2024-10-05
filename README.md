@@ -10,10 +10,10 @@ data that can be freely downloadedfrom an open source online such as kaggle or F
 or any other repository site
 
 Tools Use
-  Microsoft excel [download here](http//www.microsoft.com)
+  Microsoft excel [download here](thttps-//www.microsoft.com)
     1. for data cleaning 
     2. analysis
     3. visualisation
   SQL - structure query language for querying of data
-  Github for portfolio building
+  Github for portfolio building t  
 
