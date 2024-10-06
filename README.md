@@ -17,3 +17,15 @@ Tools Use
   SQL - structure query language for querying of data
   Github for portfolio building t  
 
+  Data cleaning and preparation
+
+  1. Data loading and inspection
+  2. Data cleaning and formating
+
+Explorating  Data Analysis
+- what is the overall sales trend
+- which project are top sellers
+- what are the products on peak sales
+
+- Data Analysis
+
